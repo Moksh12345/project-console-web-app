@@ -1,0 +1,16 @@
+body{
+    margin: 10mm;
+    background-color: #5CDB95;
+}
+h1{
+    color: #EDF5E1;
+    text-align: center;
+    font-family: Oswald;
+    font-size: 40px;;
+}
+p{
+    color: rgb(0, 80, 117);
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'Hammersmith One', sans-serif;
+}
